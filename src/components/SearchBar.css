@@ -1,0 +1,15 @@
+.searchbar{
+	background-color: #999999;
+	padding: 15px;
+}
+
+.btn-search{
+	border-color: white;
+	color: white;
+}
+
+.btn-search:hover{
+	background-color: #3C545C;
+	border-color: #3C545C;
+	color: #999999;
+}

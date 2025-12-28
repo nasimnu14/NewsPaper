@@ -1,0 +1,22 @@
+.logo{
+	font-size: 50px;
+	font-weight: bold;
+	color: #242323;
+}
+
+.logo:hover{
+	text-decoration: none;
+	color: #3C545C;
+}
+
+.todayDate{
+	font-size: 16px;
+	margin-top: -15px;
+}
+
+.nav-top{
+	background-color: white;
+	font-weight: lighter;
+	text-align: center;
+    display: block;
+}

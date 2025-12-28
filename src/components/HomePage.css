@@ -1,0 +1,56 @@
+.card-title{
+	margin-bottom: 2px;
+}
+
+.card-date-author{
+	font-size: 14px;
+}
+
+a{
+	text-decoration: none;
+	color: #242323;
+}
+
+a:hover{
+	text-decoration: none;
+	color: #3C545C;
+}
+
+p{
+	color: #242323;
+}
+
+.category-tag{
+	padding: 3px;
+	color: white;
+	background-color: #3C545C;
+	font-size: 12px;
+}
+
+.font-pink{
+	color: #3C545C;
+}
+
+.font-dark{
+	color: #242323;
+}
+
+.bg-dark-pink{
+	background-color: #999999;
+}
+
+.container-fluid{
+	padding: 20px;
+}
+
+.loader{
+	position: fixed;
+    top: 50%;
+    left: 50%;
+}
+
+.ad{
+	font-size: 11px;
+	color: #878787;
+	text-align: center;
+}

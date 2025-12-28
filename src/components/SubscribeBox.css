@@ -1,0 +1,9 @@
+.btn-subscribe{
+	border-color: #3C545C;
+	color: #3C545C;
+}
+
+.btn-subscribe:hover{
+	background-color: #3C545C;
+	color: white;
+}

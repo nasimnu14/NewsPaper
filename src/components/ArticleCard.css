@@ -1,0 +1,18 @@
+.crop {
+    width: 100%; /* width of container */
+    height: 100px; /* height of container */
+    object-fit: cover;
+}
+
+.category-tag{
+	left: 15px;
+}
+
+.desc{
+	font-size: 14px;
+	color: #878787;
+}
+
+.card-date-author{
+	margin-bottom: 3px;
+}
